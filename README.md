@@ -15,7 +15,7 @@ You can use it to start a new GIMP project or whatever it is that you use to edi
 
 template.xcf is a GIMP project with a modularly-designed assortment of frames.
 
-![](./images/mosaic.png)
+![](./examples/mosaic.png)
 
 # Conversion
 
