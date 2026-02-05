@@ -1,6 +1,6 @@
 # Template
 
-![](./examples/mosaic.webp)
+![](./examples/mosaic.png)
 
 ## template.bmp
 
@@ -17,7 +17,7 @@ You can use it to start a new GIMP project or whatever it is that you use to edi
 
 template.xcf is a GIMP project with a modularly-designed assortment of frames.
 
-![](./examples/gimp.png)
+![](./examples/gimp.webp)
 
 # Conversion
 
