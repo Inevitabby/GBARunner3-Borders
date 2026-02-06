@@ -19,6 +19,14 @@ template.xcf is a GIMP project with a modularly-designed assortment of frames.
 
 ![](./examples/gimp.webp)
 
+All assets are CC0 (look at image comments for links).
+
+> [!IMPORTANT]
+> 
+> The only non CC0 assets are the fonts, which GIMP doesn't package anyways.
+>
+> You'll need to download the Google Fonts library somewhere and add it to GIMP to get proper text. 
+
 # Conversion
 
 After editing your boder you can export it and run this fixer command to ensure compatibility with GBARunner3:
